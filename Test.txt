@@ -1,19 +1,1 @@
-
-
 	#Hello Github
-
-	
-	#Root Folder#
-	#git init	//git 저장소 초기화
-	#git remote add origin (repository address)	 //git 저장소 추가
-
-
-	
-	#git pull origin master
-
-
-	#git status //현재 git과 로컬폴더 상태 체크
-	#git add .	//변경된 파일들 모두 Tracking
-	#git reset 	// add 한 내용들을 리셋
-	#git commit -m "message"	//제목 저장
-	#git push origin +master	//git에 Push
